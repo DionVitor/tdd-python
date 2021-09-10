@@ -1,2 +1,2 @@
 # tdd-python
-Repository to study test driven development (tdd) with Python.
+Repository to study test driven development (tdd) with Python..
